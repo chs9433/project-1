@@ -1,6 +1,6 @@
 # Project 1
 + By: Christopher Sheppard
-+ Production URL: <http://p1.yourdomain.com>
++ Production URL: <http://sheppify.me>
 
 ## Outside resources
 None.

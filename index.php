@@ -64,7 +64,7 @@ function getQuote()
       <div class="row no-gutters">
         <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2">
           <!--- Profile Image --->
-          <img class="card-img dwa15-img" src="images/me<?php echo rand(1,2); //Selects an integer between 1 and 2 for a dynamic image?>.jpg" alt="Christopher Sheppard">
+          <img class="card-img dwa15-img" src="images/me1.jpg" alt="Christopher Sheppard">
         </div>
         <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
           <!--- Card Body --->

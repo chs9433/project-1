@@ -1,6 +1,6 @@
 # Project 1
 + By: Christopher Sheppard
-+ Production URL: <http://sheppify.me>
++ Production URL: <http://pi.sheppify.me>
 
 ## Outside resources
 None.

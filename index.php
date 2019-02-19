@@ -37,24 +37,8 @@ function getQuote()
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <!--Bootstrap 4 CSS -->
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
-  <!--Custom Styling -->
-  <style>
-    body {
-      padding:10px 5px;
-    }
-    .dwa15-img {
-      display:block;
-      width:200px;
-      margin-left:auto;
-      margin-right:auto;
-      padding:2px;
-    }
-    hr {
-      padding:2px;
-      padding-top:0px;
-      margin-top:1px;
-    }
-  </style>
+  <!--Custom CSS -->
+  <link rel="stylesheet" href="css/project-1.css">
 </head>
 <body>
   <!--Main Container -->
@@ -69,7 +53,7 @@ function getQuote()
         <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
           <!--Card Body -->
           <div class="card-body">
-            <h2 class="cart-title" style="text-decoration: underline;">Christopher Sheppard</h2>
+            <h2 class="cart-title dwa15-card-title">Christopher Sheppard</h2>
             <p class="card-text">
               Howdy! My name's Chris. I'm 33 and currently living in Dallas, Texas. DWA15 is my first course at Harvard Extension School. I'm a Tools & Automation Program Manager at a telecommunications company and am working towards an MLA degree in Software Engineering.Hobbies include playing piano, sax, drawing, playing video games, watching anime, working out and (trying to) cook.
             </p>
